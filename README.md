@@ -29,16 +29,6 @@ Two types of visualizations are used:
 3. Run the script.
 4. View the generated visualizations and statistical information.
 
-## License 📜
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-"""
-
-    # Write the content to README.md file
-    with open("README.md", "w") as readme_file:
-        readme_file.write(readme_content)
-
-    print("README.md file generated successfully. Your teacher will love it! 🎉")
 
 # Generate README
 generate_readme()
