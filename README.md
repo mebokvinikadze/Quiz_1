@@ -1,6 +1,3 @@
-def generate_readme():
-    # Content for the README
-    readme_content = """
 # 💼 Developer Compensation Analysis 💰
 
 This project analyzes the relationship between employment status and yearly compensation among developers in the United States.
